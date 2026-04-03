@@ -4,7 +4,7 @@
 
 **Team Name:** BinaryAgents
 **Members:**
-Ankit Arayan Triapthy | Team Lead
+Ankit Arayan Tripathy | Team Lead
 Purnima Mahakul | Team Member
 **Contact Email:** x2ankittripathy@gmail.com
 
